@@ -1,0 +1,20 @@
+// criterio 1 indica parada por tiempo (Valor es seg.), 2 parada por iteraciones (Valor es nro. de iteraciones)
+criterio = 1
+valor = 10
+hormigas = 10
+alfa = 1
+beta = 2
+gama = 0.3
+rho = 0.1
+lambda = 0.8
+tau0 = 1
+tmax = 0.9
+omicron = 10
+k = 100
+q0 = 0.5
+d1max = 3000
+d2max = 3000
+f1max = 150000
+f2max = 150000
+avr1 = 60000
+avr2 = 60000
